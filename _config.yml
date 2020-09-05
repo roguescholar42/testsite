@@ -11,7 +11,7 @@ collections:
 email: roguescholar42@gmail.com
 description: 'Morning toughts. Also soda. '
 baseurl: 
-url: https://goodmorningsoda.com
+url: 
 twitter_username: roguescholar42
 github_username: roguescholar42
 theme: jekyll-whiteglass
