@@ -1,0 +1,27 @@
+---
+title: Good Morning, Soda
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: roguescholar42@gmail.com
+description: 'Morning toughts. Also soda. '
+baseurl: 
+url: https://goodmorningsoda.com
+twitter_username: roguescholar42
+github_username: roguescholar42
+theme: jekyll-whiteglass
+plugins:
+- jekyll-feed
+- jekyll-archives
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-seo-tag
+permalink: "/:year/:month/:day/:title/"
+paginate_path: "/posts/:num/"
+paginate: 10
+author: Josh Evans

@@ -1,0 +1,20 @@
+---
+title: April Fool's Day
+date: 2020-04-01 12:05:00 -04:00
+categories:
+- thoughts
+---
+
+It's April Fool's day, which is my least favorite of holidays.  Always has been. My birthday is the second, and while weather or not I'm funny is subjective, I do attempt a lot of jokes and try to make them actually land.  These factors have always led to me having a giant target on my back durning April Fool's. 
+
+Also, sites have calcified into making joke posts and announcements today. That's the one that really grates. None of them are funny, and they all attempt to be "wacky" by just announcing something that's simply more interesting than what the site or company normally does.   
+
+It's like we create an alternative reality for one day, but one with more mirth and whimsy than our own. Then the calendar turns to the second and we are left back where we started but now with a contrast point of what could have been. 
+
+And the worst part of this is that the underlying joke of those posts is "this is so ridiculous! Who could ever believe it?!" Me, I'd like to believe it and I'm not stupid for doing so.  
+
+The now defunct ThinkGeek fell into this trap all the time.  They'd announce "joke" products that were head and shoulders more interesting than what they were normally producing and get shammed by the community to actually start producing some of that stuff.
+
+Today hundreds of tiny windows to gentler world are going to be opened by cynics, and then slammed shut with a practiced eye roll, and joyless, "but we'd never really do this. No one would really want it." 
+
+So no, as someone who tries to make others laugh, I don't fucking like April Fool's Day.  I'm going to stay off the net as much as I can, and I suggest you do the same.  Don't click on the "New Episodes" tag Netflix sometimes puts up on Firefly.  Don't give them the satisfaction. 

@@ -1,0 +1,13 @@
+---
+title: The Board has been reset
+date: 2020-08-06 00:23:00 -04:00
+categories:
+- status
+- The Board
+---
+
+So I've been living with my [new productivity system](https://goodmorningsoda.com/2020/07/27/new-productivity-system/) for about a week and a half now. It's been good but I still need to work some bugs out of the system.  I wasn't able to clear off everything from The Board last week.  I think this was due to my ambition problem whenever I implement a new system. I try to put EVERY TASK EVER IN MY LIFE into it and I get overloaded and explode.
+
+So I need to live with the system for a while before I really start seeing changes.  This is why I haven't really written in up yet, so that I can get it into a better state before explaining how it works. Or just drop it because it doesn't work for me. 
+
+For now, I just have to keep trying, but The Board has been reset, and we'll see where the rest of the week takes us.  

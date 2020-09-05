@@ -1,0 +1,24 @@
+---
+title: 30 Days plus one
+date: 2020-03-27 20:31:00 -04:00
+categories:
+- status
+---
+
+I jumped into the SiteLeaf account to write about running this site for a month and posting every day.  Turns out that was yesterday. 
+
+That pretty much tells you everything you need to know about how things have been going, but it's my blog damn it and I can be a long winded as I want. 
+
+Posting every day really hasn't been that big of a deal and I've found that I've been able to fold it into my time fairly easily.  When I go to write, I don't dread it as I've done with other "blogging challenges." 
+
+I put that in quotes because back in the day I used to give my self challenges to write every day for a month.  I would make a big deal of it and I would write a review of each week during the challenge. And it was always a slog.  In fact, I only finished one of those challenges once.  
+
+I thought the reason for this was that I was lazy.  Turns out that was wrong.  The fact that I wouldn't write much on the blog was that I was building it up in my mind too much.  It had to be too perfect.  On my old blog, I was writing what I hoped were full articles and not simple posts.  (These are very different in my mind.  One is much more formal while the other is a simple update that you could see on any social media service.) 
+
+What I'm trying to do with this site is a simple sketch pad for me be play with ideas in a public space and to be a signaling system for what I'm working on each day. That every simple mission statement takes a lot of pressure off of me to be perfect and allows be the freedom to just get on with it. 
+
+I look forward to updating this site and have done some multiple times in a day, which was unthinkable on my last blog.  This, to me, is the purest expression of what blogging is: personal updates about what's happening in a persons life right now. Writing online should be about freedom and not a dreaded chore.
+
+Because of that, I think I've actually written a few posts that are of some interest and would have had a place at my old blog, but I have been posting them at a higher frequency than I ever did on my other site. 
+
+This all said, I've written enough of these self-congratulatory posts to fear what comes next: the months long silence followed by the "it's been a while" post. Somehow I don't think I'll have to worry about that this time, but we'll see. All I can do is open this window again, sooner rather than later, and start typing. No pressure.

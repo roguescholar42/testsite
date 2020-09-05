@@ -1,0 +1,14 @@
+---
+title: More Comics
+date: 2020-07-31 23:55:00 -04:00
+categories:
+- status
+---
+
+I have five huge deluxe edition comic collections sitting on my coffee table unread, mocking me. I'm still making my way through 100 Bullets and it's still very good.  There's just a lot of it. There's 100 issues because Brian Azzarello likes to be cute.  I've read over 60 issues of it, which is where a lot of Vertigo series liked to end.  This means that the story is feeling like it's dragging just because it's now outside of the normal rhythm. 
+
+And after that I have Y The Last Man lined up. 
+
+So Am I reading any of this? Fuck no, I'm on like looking at volumes of Judge Dredd.  It's a comic I've always lusted after as it's hard to get here in the states.  Or at least it was when I was a kid and really wanted to read it. Now they've collected it into huge volumes that I can go through in chronological order.  
+
+Because I need a bigger backlog. 

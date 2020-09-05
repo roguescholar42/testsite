@@ -1,0 +1,10 @@
+---
+title: It's about that time
+date: 2020-09-02 22:45:00 -04:00
+categories:
+- status
+---
+
+So I may be becoming an old man.  I was scrolling Facebook and the algorithm and figured out that I will always stop whenever there's a video of someone making a craft, or building a table, or something.  I never told it this.  I never shared anything like this, or clicked the like button on a video. It just figured it out from my scrolling behavior. 
+
+It figured out that I have turned into the millennial equivalent of an old man watching This Old House.    

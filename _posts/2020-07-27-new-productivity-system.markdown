@@ -1,0 +1,10 @@
+---
+title: New Productivity System
+date: 2020-07-27 17:31:00 -04:00
+---
+
+So I'm trying out another productivity system.  Anyone who knows me is probably rolling their eyes because productivity systems is something of a hobby of mine, which is a nice way of saying I read a lot without doing much.  The thing that's unique about this one is that I'm building it myself out of bits from other systems.  Just the bits I like and I'm exited to use.
+
+And that's about all I'm going to say on the subject right now.  The thing I don't want to do is lay everything out and have the system need to be changed or I abandon it in three days as is normally the case with these things. So I'll hopefully go into more detail in a few months.  The last specific I'll give is that it involves a cork board which shall here by be referred to as The Board. 
+
+It might seem weird to be implementing something like this in the middle of the world falling apart, but I have to try something because my current plan of stress watching YouTube isn't getting me where I want to be.  But if this does fall apart, I will try to be gentle with myself.

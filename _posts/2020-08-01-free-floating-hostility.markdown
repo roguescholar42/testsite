@@ -1,0 +1,18 @@
+---
+title: Free Floating Hostility
+date: 2020-08-01 23:15:00 -04:00
+categories:
+- status
+---
+
+I'm about to complain about a hyper-specific feature of Facebook, so if that's not your thing, I'd suggest skipping this post. 
+
+I was just on Facebook - again, I know, big mistake - and they have a new feature that tells you when you are offline.  I only know about this feature because I keep getting false positives from it when it goes off right after my computer wakes up from sleep.  It would appear my computer reconnecting to the wifi from sleep mode is not fast enough for an already cached website and it feels the need to inform me.
+
+Why on Earth does this exist? Why would you code in a system for your website to ping through a user's browser and look at its connectivity to the Internet? There is no way that this is a requested feature.  There is no user that cares to know from an individual website that their computer has lost web connectivity when all they are trying to do is scroll already cached data.
+
+I can see it being mildly useful the site to do this check when the user tries to post something.  That would be useful. "Hey, you can't post this right now and I know the reason: your computer isn't online." But it throws up this notification while you are scrolling the front page.
+
+This means they are doing to check too much.  This means the information is be collected and returned to Facebook when the computer re-establishes connection with the web.  Since there is no user who could want this kind of feature, chances are the data is not being collected for our benefit. 
+
+Just a thought.  End rant. You may now return to your day. Thanks for reading.

@@ -1,0 +1,10 @@
+---
+title: Friday Evening
+date: 2020-04-10 23:04:00 -04:00
+categories:
+- status
+---
+
+Started back up on a Web Dev class I'd taken a break from to build this blog.  Now that this is running "smoothly." I can learn some more stuff to really mess this thing up.  Will report back in more detail once I have some more of the class under my belt.
+
+Read a few more volumes of Alita: Last Order.  As it turns out, after book one, I never read the rest of the volumes I owned and forgot I still hadn't read them.  I'm usually pretty good a remembering my "To Read" pile, but I had packed those books so many times over so many moves that I guess it just slipped my mind.  Anyway, I'm reading them now.  The story has not go the places I feared it would from the first volume, so that's good.  But I do miss the post apocalyptic stories from the first volume. 
